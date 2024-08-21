@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0sakMosak
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Java/JS and more
-- 📫 How to reach me on [Insta](https://www.instagram.com/0sakmosak?igsh=dGVvcGpnMGhnNHh4&utm_source=qr)
+- 📫 You can reach me on [Insta](https://www.instagram.com/0sakmosak?igsh=dGVvcGpnMGhnNHh4&utm_source=qr)
 - ⚡ Fun fact: linux is interesting
 
 <!---
